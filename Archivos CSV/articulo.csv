@@ -1,0 +1,18 @@
+id_articulo,nombre_art,stock,id_categoria,id_proveedor,precio_100g
+1,almendra,10000,1,1,500
+2,avellana,10000,1,1,800
+3,mani,10000,1,1,300
+4,castaña de caju,10000,1,1,1000
+5,mix tropical,5000,2,1,500
+6,mix deportivo,5000,2,1,600
+7,mix economico,5000,2,1,400
+8,mix seco,3000,2,2,900
+9,girasol,2000,3,2,200
+10,chia,2000,3,2,200
+11,sesamo,2000,3,2,100
+12,lino,2000,3,2,200
+13,almohadita chocolate,2000,5,3,600
+14,almohadita avellana,3000,5,3,600
+15,almohadita frutilla,3000,5,3,600
+16,banana disecada,3000,4,1,400
+17,pasa de uva,4000,4,1,300

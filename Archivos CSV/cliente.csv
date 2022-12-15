@@ -1,0 +1,16 @@
+id_cliente,nombre_cli,telefono_cliente,email_cliente,fecha_nac,id_partido
+1,Juan Carlos,1111111111,juan@gmail.com,1998-04-07,4
+2,Martín,2222222222,martin@gmail.com,1992-08-17,5
+3,Diego,3333333333,diegin@gmail.com,1997-01-17,4
+4,Gastón,4444444444,gastin@gmail.com,1995-06-03,4
+5,Gustavo,5555555555,gustin@gmail.com,1992-07-26,4
+6,Luciano,6666666666,luciin@gmail.com,1998-02-02,4
+7,Franco,7777777777,franin@gmail.com,1996-10-10,5
+8,Dieguito,8888888888,diegin2@gmail.com,1990-07-07,5
+9,Lucas,9999999999,lucain@gmail.com,1990-11-22,4
+10,Emiliano,1010101010,emilin@gmail.com,1990-03-05,4
+11,Nahuel,2211111111,nahuin@gmail.com,1990-05-05,5
+12,Matias,1212121212,matiin@gmail.com,1992-07-17,4
+13,Ezequiel,1313131313,ezeqin@gmail.com,1991-06-16,5
+14,Ramiro,1414141414,ramiin@gmail.com,1994-04-04,4
+15,Víctor,1515151515,víctin@gmail.com,1989-07-17,4
